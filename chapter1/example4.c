@@ -29,7 +29,7 @@ main(){
     traditional bubble sort 
    */
 
-  xcount1 = 0;
+  count1 = 0;
   while(count1 < lastchar){
       count2 = count1 + 1;
       while(count2 <= lastchar){
