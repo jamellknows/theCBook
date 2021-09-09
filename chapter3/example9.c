@@ -8,4 +8,4 @@ main(){
               printf((i&1) ? "odd\n" : "even\n");
       }
       exit(EXIT_SUCCESS);
-}
+}  
